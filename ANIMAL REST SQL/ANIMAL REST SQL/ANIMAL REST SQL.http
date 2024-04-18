@@ -1,0 +1,6 @@
+@ANIMAL_REST_SQL_HostAddress = http://localhost:5110
+
+GET {{ANIMAL_REST_SQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
